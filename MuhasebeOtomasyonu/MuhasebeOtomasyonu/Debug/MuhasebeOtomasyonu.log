@@ -1,0 +1,5 @@
+﻿  MuhasebeOtomasyonu.cpp
+C:\Users\DEDEÇ\Desktop\Muhasebe Otomasyonu\MuhasebeOtomasyonu\MuhasebeOtomasyonu\MuhasebeOtomasyonu.cpp(473,22): warning C4101: 'GelirAdet': yerel değişken başvurusu kaldırıldı
+C:\Users\DEDEÇ\Desktop\Muhasebe Otomasyonu\MuhasebeOtomasyonu\MuhasebeOtomasyonu\MuhasebeOtomasyonu.cpp(472,10): warning C4101: 'Hesapekle': yerel değişken başvurusu kaldırıldı
+C:\Users\DEDEÇ\Desktop\Muhasebe Otomasyonu\MuhasebeOtomasyonu\MuhasebeOtomasyonu\MuhasebeOtomasyonu.cpp(473,9): warning C4101: 'GelirMiktar': yerel değişken başvurusu kaldırıldı
+  MuhasebeOtomasyonu.vcxproj -> C:\Users\DEDEÇ\Desktop\Muhasebe Otomasyonu\MuhasebeOtomasyonu\Debug\MuhasebeOtomasyonu.exe
