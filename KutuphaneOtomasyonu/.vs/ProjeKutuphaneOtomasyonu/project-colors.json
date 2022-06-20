@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "54290039-76f4-4185-a1d3-fe5dc6550b8b": {
+      "ProjectGuid": "54290039-76f4-4185-a1d3-fe5dc6550b8b",
+      "DisplayName": "ProjeKutuphaneOtomasyonu",
+      "ColorIndex": 0
+    },
+    "1c27c980-ef0f-4335-890b-0f7018fc9b92": {
+      "ProjectGuid": "1c27c980-ef0f-4335-890b-0f7018fc9b92",
+      "DisplayName": "BussinessLayer",
+      "ColorIndex": 1
+    },
+    "d9fe1f3e-8b9a-4d52-9d78-d797b48b0fbb": {
+      "ProjectGuid": "d9fe1f3e-8b9a-4d52-9d78-d797b48b0fbb",
+      "DisplayName": "DataAccessLayer",
+      "ColorIndex": 2
+    },
+    "ec74d30e-f0a9-4fdb-b776-3b7b4d49a473": {
+      "ProjectGuid": "ec74d30e-f0a9-4fdb-b776-3b7b4d49a473",
+      "DisplayName": "EntityLayer",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}
